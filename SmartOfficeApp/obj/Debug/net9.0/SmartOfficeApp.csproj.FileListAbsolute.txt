@@ -1,0 +1,14 @@
+D:\dotnet\SmartOfficeApp\obj\Debug\net9.0\SmartOfficeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\SmartOfficeApp\obj\Debug\net9.0\SmartOfficeApp.AssemblyInfoInputs.cache
+D:\dotnet\SmartOfficeApp\obj\Debug\net9.0\SmartOfficeApp.AssemblyInfo.cs
+D:\dotnet\SmartOfficeApp\obj\Debug\net9.0\SmartOfficeApp.csproj.CoreCompileInputs.cache
+D:\dotnet\SmartOfficeApp\bin\Debug\net9.0\SmartOfficeApp.exe
+D:\dotnet\SmartOfficeApp\bin\Debug\net9.0\SmartOfficeApp.deps.json
+D:\dotnet\SmartOfficeApp\bin\Debug\net9.0\SmartOfficeApp.runtimeconfig.json
+D:\dotnet\SmartOfficeApp\bin\Debug\net9.0\SmartOfficeApp.dll
+D:\dotnet\SmartOfficeApp\bin\Debug\net9.0\SmartOfficeApp.pdb
+D:\dotnet\SmartOfficeApp\obj\Debug\net9.0\SmartOfficeApp.dll
+D:\dotnet\SmartOfficeApp\obj\Debug\net9.0\refint\SmartOfficeApp.dll
+D:\dotnet\SmartOfficeApp\obj\Debug\net9.0\SmartOfficeApp.pdb
+D:\dotnet\SmartOfficeApp\obj\Debug\net9.0\SmartOfficeApp.genruntimeconfig.cache
+D:\dotnet\SmartOfficeApp\obj\Debug\net9.0\ref\SmartOfficeApp.dll
